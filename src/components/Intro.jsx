@@ -2,10 +2,10 @@ import React from 'react';
 
 const Intro = () => {
     return (
-        <section className="hero-image">
+        <section className="main-image">
             <div className="container">
-                <h1 className="heading">Николай</h1>
-                <p>Начинающий верстальщик</p>
+                <h1 className="heading">Mykola Hrishchenko</h1>
+                <p>beginner web developer</p>
             </div>
         </section>
     );

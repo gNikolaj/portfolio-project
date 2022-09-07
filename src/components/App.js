@@ -5,6 +5,7 @@ import Portfolio from "./Portfolio";
 import Footer from "./Footer";
 
 import '../index.css';
+import React from "react";
 
 const App = () => {
     return (
